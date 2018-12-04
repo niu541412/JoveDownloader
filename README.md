@@ -4,6 +4,7 @@ A javascirpt bookmark which can help you download the video from [JoVE.com](http
 Save the following script as a bookmark in your favorite browser. When you 
 watch the video on jove.com, click it, a new tab which contains the video 
 will pop up, then you can download it by 'save as' etc.
+
 Tested with Chrome, Firefox & Safari on desktop devices and Safari on ios 
 devices. Failed with Chrome on Android devices.
 
