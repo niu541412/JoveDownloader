@@ -1,5 +1,5 @@
 # JoveDownloader
-A javascirpt bookmark which can help you download the video from [jove.com](https://www.jove.com)
+A javascirpt bookmark which can help you download the video from [JoVE.com](https://www.jove.com)
 
 Save the following script as a bookmark in your favorite browser. When you 
 watch the video on jove.com, click it, a new tab which contains the video 
